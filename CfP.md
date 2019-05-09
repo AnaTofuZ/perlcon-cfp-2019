@@ -37,6 +37,15 @@ I think most people are using Perl 5.10 or later or Perl 6
 ただし、Perl "5"が存在するということは、Perl 1からPerl 4までのバージョンがあることを意味します。
 However, the existence of Perl "5" means that there are versions from Perl 1 to Perl 4.
 
-# 説明
 
+実はPerl1からすべてのバージョンのCソースコードは現在でも入手する事が可能です。
+
+もし、手元に動くPerlのレガシーバージョンがあればビルドしたくなりませんか? そして動かしてみたくなりませんか?
+
+このトークでは、現代のOSでレガシーPerlを動かす方法と、各言語を動かす方法を探ります。
+もし、あなたがPerlという言語に興味があり、今までの歴史学に興味があれば面白いと思います。
+
+(英語はあまり上手くないので許してね)
+
+# 説明
 
